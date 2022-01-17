@@ -1,0 +1,9 @@
+[submodule "CA3"]
+	path = CA3
+	url = https://github.com/aminb7/MIPS-Processor-Pipeline.git
+[submodule "CA2"]
+	path = CA2
+	url = https://github.com/aminb7/MIPS-Processor-MultiCycle.git
+[submodule "CA1"]
+	path = CA1
+	url = https://github.com/aminb7/MIPS-Processor-SingleCycle.git
